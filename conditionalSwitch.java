@@ -1,7 +1,7 @@
 public class conditionalSwitch {
   public static void main(String[] args) {
     int day = 4;
-    switch (day) {
+    switch ( day ) {
       case 1:
         System.out.println("Monday");
         break;
